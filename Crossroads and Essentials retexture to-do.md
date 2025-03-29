@@ -1,10 +1,6 @@
 
 # Crossroads
 
-- [ ] Block of Tin
-- [ ] Tin Ore
-- [ ] Deepslate Tin Ore
-- [ ] Block of Bronze
 - [ ] Millstone
 - [ ] Industrial Crucible
 - [ ] Fluid Tube
@@ -50,7 +46,6 @@
 - [ ] Clockwork Stabilizer
 - [ ] Detailed Auto-Crafter
 - [ ] Beacon Harness
-- [ ] 
 
 # Essentials
 
