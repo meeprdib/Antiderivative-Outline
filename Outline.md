@@ -1,6 +1,6 @@
 # Introduction
 
-Antiderivative is a broadly-themed pack with aspects of magic, exploration, tech, and combat. It focuses on creating an integrated experience between the core mods through overhauled recipes, progression, and other custom content. Most mods have been reimplemented from the ground up, so don't expect a similar experience to how they work/progress normally!
+Antiderivative is a broadly-themed pack with aspects of magic, exploration, tech, and combat. It focuses on creating an integrated experience between the core mods through overhauled recipes, progression, and other custom content. While Antiderivative is by no means a "vanilla+ modpack", it aims to replicate and enhance the most enjoyable aspects of Vanilla Minecraft to the furthest degrees possible, which I believe to be exploration, automation, and progression. Most mods have been reimplemented from the ground up, so don't expect a similar experience to how they work/progress normally!
 
 # Exploration / Worldgen
 

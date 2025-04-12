@@ -1,0 +1,22 @@
+
+- [ ] Botania Tweaks
+	- [x] Remove Flowers, Big Flowers, and Mushrooms from generating
+	- [ ] 
+	- [ ] Fill in gaps from recipe removals
+- [ ] Hexalia tweaks
+	- [ ] Transfer Mortar and Pestle recipes to Hexerei
+	- [ ] Integrate Cauldron and Potion recipes to use FD equipment
+	- [ ] Make Chillberry Pie use FD stuff
+- [ ] Structure Generation tweaks
+	- [ ] Set height filters with Lithostitched for various big structures https://modrinth.com/mod/improved-village-placement
+- [ ] Regions Unexplored tweaks
+	- [ ] Remove shrubs
+	- [ ] Remove branches
+	- [ ] Remove above entries from Every Compat
+- [ ] General bloat nuking
+- [ ] Make Snails and Turkeys spawn in EB Maple biomes
+- [ ] Nuke List
+	- [ ] Flowers, Big Flowers, Mushrooms, Pedals, Pedal Blocks, and Floating Flowers from Botania
+	- [ ] Flowering Rush from Upgrade Aquatic
+	- [ ] Gearo Berries and products
+- [ ] Remove EB roses and put them in the Alpha Grove biome from RU
