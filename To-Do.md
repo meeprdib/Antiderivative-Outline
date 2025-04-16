@@ -1,7 +1,6 @@
 
 - [ ] Botania Tweaks
 	- [x] Remove Flowers, Big Flowers, and Mushrooms from generating
-	- [ ] 
 	- [ ] Fill in gaps from recipe removals
 - [ ] Hexalia tweaks
 	- [ ] Transfer Mortar and Pestle recipes to Hexerei
@@ -20,3 +19,5 @@
 	- [ ] Flowering Rush from Upgrade Aquatic
 	- [ ] Gearo Berries and products
 - [ ] Remove EB roses and put them in the Alpha Grove biome from RU
+- [ ] Remove Bloodcap Mushrooms from spawning in caves
+- [ ] Polytone grass variants RP similar to https://www.curseforge.com/minecraft/texture-packs/biome-dirt
