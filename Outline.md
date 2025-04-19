@@ -4,7 +4,7 @@ Antiderivative is a broadly-themed pack with aspects of magic, exploration, tech
 
 # Exploration / Worldgen
 
-Antiderivative has a variety of biome mods, the biggest ones being Alex's Caves, Atmospheric, Galosphere, and Regions Unexplored (?). The biome distribution is completely custom, however, a prime example being caves from Alex's Caves spawn frequently in the Overworld and Nether. Ore generation has also been reworked, with some ores like Coal or Emerald removed, and the rest of the ores having their distribution shifted around.
+Antiderivative has a variety of biome mods, the biggest ones being Alex's Caves, Atmospheric, Galosphere, and Regions Unexplored. The biome distribution is completely custom, however, a prime example being caves from Alex's Caves spawn frequently in the Overworld and Nether. Ore generation has also been reworked, with some ores like Coal or Emerald removed, and the rest of the ores having their distribution shifted around.
 
 In addition to custom biome and ore generation, it also features a structure mod made specifically for the modpack; Unintegrated Dungeons and Structures, or UDaS for short. It's a fork of [IDaS](https://www.curseforge.com/minecraft/mc-mods/idas) with both the dependencies and some of the structures themselves changed to fit the modpack better, as many features from Supplementaries, Quark, and Create don't fit in this pack. Extra care has been put into both the placement and distribution of said structures. 
 
