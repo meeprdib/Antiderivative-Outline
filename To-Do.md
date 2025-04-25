@@ -31,6 +31,9 @@
 	- [ ] Disable apotheosis bosses and boss dungeons
 	- [ ] Disable Scorched Guns mobs from spawning naturally
 	- [ ] Disable Necromancer from spawning naturally
+- [ ] UDaS mod
+- [ ] Nuke bat spawning
+- [ ] Recolor TiCon tools to have accurate color schemes to the ingots
 
 
 Initial Alpha features:

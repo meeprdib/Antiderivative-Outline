@@ -3,3 +3,5 @@
 - Shadows - For helping me learn datapacks and being patient with my dumb questions, and the development of Apotheosis
 - Qwerty - For making me some textures
 - Yirmiri - For being cool + development of Excessive Building and RunicLib
+- Muon - For helping me with some features in Apotheosis Ascended
+- Murphy - For helping me with the cave lighting scripts
