@@ -5,3 +5,4 @@
 - Yirmiri - For being cool + development of Excessive Building and RunicLib
 - Muon - For helping me with some features in Apotheosis Ascended
 - Murphy - For helping me with the cave lighting scripts
+- So many people in the MPD Discord server - For constantly giving feedback and ideas

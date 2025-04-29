@@ -18,10 +18,12 @@
 	- [ ] Flowers, Big Flowers, Mushrooms, Pedals, Pedal Blocks, and Floating Flowers from Botania
 	- [ ] Flowering Rush from Upgrade Aquatic
 	- [ ] Gearo Berries and products
-- [ ] Remove EB roses and put them in the Alpha Grove biome from RU
-- [ ] Remove Bloodcap Mushrooms from spawning in caves
+- [ ] Worldgen tweaks
+	- [ ] Remove EB roses and put them in the Alpha Grove biome from RU
+	- [ ] Remove Bloodcap Mushrooms from spawning in caves
+	- [ ] Remove Yungs Extras ruins from swamps in favor of Wetland Whimsey, move to plains maybe?
+	- [ ] Remove Scorched Guns 
 - [ ] Polytone grass variants RP similar to https://www.curseforge.com/minecraft/texture-packs/biome-dirt
-- [ ] Remove Yungs Extras ruins from swamps in favor of Wetland Whimsey, move to plains maybe?
 - [ ] Blast Furnace expansion
 	- [ ] Use copper in recipe
 	- [ ] Change texture to reflect that
