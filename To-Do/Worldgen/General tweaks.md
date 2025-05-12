@@ -1,0 +1,13 @@
+
+- [ ] Structure Generation tweaks
+	- [ ] Set height filters with Lithostitched for various big structures https://modrinth.com/mod/improved-village-placement
+	- [ ] Make structures spawn in their correct "dimensions" w Formations
+- [ ] Regions Unexplored tweaks
+	- [ ] Remove shrubs
+	- [ ] Remove branches
+	- [ ] Remove above entries from Every Compat
+- [ ] Remove EB roses and put them in the Alpha Grove biome from RU
+- [ ] Remove Bloodcap Mushrooms from spawning in caves
+- [ ] Remove Yungs Extras ruins from swamps in favor of Wetland Whimsey, move to plains maybe?
+- [ ] Put Ribbits villages in Aether
+- [ ] Do something about all the fuckass geodes in the nether

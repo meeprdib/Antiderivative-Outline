@@ -1,0 +1,29 @@
+
+- [ ] Botania Tweaks
+	- [x] Remove Flowers, Big Flowers, and Mushrooms from generating
+	- [ ] Fill in gaps from recipe removals
+- [ ] Hexalia tweaks
+	- [ ] Transfer Mortar and Pestle recipes to Hexerei
+	- [ ] Integrate Cauldron and Potion recipes to use FD equipment
+	- [ ] Make Chillberry Pie use FD stuff
+- [ ] General bloat nuking
+- [ ] Nuke List
+	- [ ] Flowers, Big Flowers, Mushrooms, Pedals, Pedal Blocks, and Floating Flowers from Botania
+	- [ ] Flowering Rush from Upgrade Aquatic
+	- [ ] Gearo Berries and products
+- [ ] Polytone grass variants RP similar to https://www.curseforge.com/minecraft/texture-packs/biome-dirt
+- [ ] Blast Furnace expansion
+	- [ ] Use copper in recipe
+	- [ ] Change texture to reflect that
+	- [ ] Change recipes from "just ores" -> "all things stone/clay related"
+- [ ] Mob spawning
+	- [ ] Disable hostile mob spawns above y63
+	- [ ] Disable apotheosis bosses and boss dungeons
+	- [ ] Disable Scorched Guns mobs from spawning naturally
+	- [ ] Disable Necromancer from spawning naturally
+- [ ] Nuke bat spawning
+- [ ] Recolor TiCon tools to have accurate color schemes to the ingots
+- [ ] Fine-tune Accessories slots
+- [ ] Replace Skyroot Sticks with normal stick
+- [ ] Change RU Overgrown Bone Block model to be compatible with JNE
+- [ ] Integrate SG2 molds and TiCon casts
