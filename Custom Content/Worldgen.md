@@ -19,7 +19,7 @@ Villagers have been removed in the sense that they can no longer be traded with,
 
 #### UDaS
 
-UDaS is the primary structure mod in this modpack, as most structures from Vanilla or other mods have been removed. It is a combination of IDaS, Integrated Stronghold, and Integrated Cataclysm, forked to rely on other dependencies and modified to fit the modpack. It serves to provide combat challenges in a way that's integrated with the modpack as a whole.
+UDaS is the primary structure mod in this modpack, as most structures from Vanilla or other mods have been removed. It's a combination of IDaS and Integrated Cataclysm, forked to rely on other dependencies and modified to fit the modpack. It serves to provide combat challenges in a way that's integrated with the modpack as a whole.
 
 ## Ores
 

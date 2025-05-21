@@ -17,9 +17,7 @@ Initial Alpha features:
 	- A couple of custom structures (UDaS alpha)
 	- Custom exploration system involving archaeology, locator maps, and automatic waypoint application to mapped structures
 - Integrated combat progression involving Apotheosis, TiCon, ISS, and Scorched Guns
-- Mobs get more powerful as you do
 - Barebones tech integration tied into various aspects of the pack
-- Barebones questlines
 
 What I'm looking for in terms of feedback
 - Overall "feel" of progression, too slow, too fast, any shortcuts, too unbalanced, ect.

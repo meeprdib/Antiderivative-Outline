@@ -14,7 +14,7 @@ Apotheosis is the main source of power to the player in the pack, with other sou
 
 The tech in this pack primarily revolves around Crossroads, Botania, with complimentary mods like TiCon, Scorched Guns, Refined Storage. Rather than using traditional machine chaining, automation and processing are focused on in-world interaction puzzles.
 
-Tech progression is designed to be non-linear and entirely optional—players can experience everything the pack offers without engaging in the tech/automation aspects. Instead of being a requirement, technology serves as a tool to enhance and expand upon what players can already do, providing more opportunities and efficiency, much like Vanilla Minecraft.
+Tech progression is designed to be non-linear and entirely optional—players can experience nearly everything the pack offers without engaging in the tech/automation aspects. Instead of being a requirement, technology serves as a tool to expand upon what players can already do, providing more opportunities and efficiency, much like Vanilla Minecraft.
 
 # Comforts / QoL
 
