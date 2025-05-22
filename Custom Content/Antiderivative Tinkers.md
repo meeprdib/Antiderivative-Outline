@@ -19,8 +19,7 @@ Antiderivative Tinkers is a lowcode addon mod for Tinkers, adding compatibility 
 
 ## Caverns and Chasms
 
-- Necronium - 
-- Spinel - 
+- Necronium - Modifier that adds Slowness Infliction and Weakness Aura
 
 ## Botania
 
@@ -39,6 +38,19 @@ Antiderivative Tinkers is a lowcode addon mod for Tinkers, adding compatibility 
 - Tectonic Shard - 
 - Pearl - 
 
+## Oreganized
+
+- Electrum - Modifier that adds kinetic damage
+- Lead - Inflicts brain damage
+
+## Aether Redux
+
+- Gravitite - Inflicts up gravity on hit
+
+## Deep Aether
+
+- Stratus - Inflicts reverse gravity on hit
+
 ## Additional Content
 
-- 
+- Daggers rebranded to knives, FD compat
