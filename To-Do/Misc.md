@@ -3,7 +3,6 @@
 	- [x] Remove Flowers, Big Flowers, and Mushrooms from generating
 	- [ ] Fill in gaps from recipe removals
 - [ ] Hexalia tweaks
-	- [ ] Transfer Mortar and Pestle recipes to Hexerei
 	- [ ] Integrate Cauldron and Potion recipes to use FD equipment
 	- [ ] Make Chillberry Pie use FD stuff
 - [ ] General bloat nuking
