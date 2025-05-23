@@ -1,6 +1,3 @@
-
-Antiderivative Tinkers is a lowcode addon mod for Tinkers, adding compatibility for various mods, as well as new features to fit in with the modpack. The following mod compats and features are listed below:
-
 ## Scorched Guns
 
 - Anthralite - 
