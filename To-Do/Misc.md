@@ -10,7 +10,6 @@
 	- [ ] Flowers, Big Flowers, Mushrooms, Pedals, Pedal Blocks, and Floating Flowers from Botania
 	- [ ] Flowering Rush from Upgrade Aquatic
 	- [ ] Gearo Berries and products
-- [ ] Polytone grass variants RP similar to https://www.curseforge.com/minecraft/texture-packs/biome-dirt
 - [ ] Blast Furnace expansion
 	- [ ] Use copper in recipe
 	- [ ] Change texture to reflect that
@@ -24,5 +23,4 @@
 - [ ] Recolor TiCon tools to have accurate color schemes to the ingots
 - [ ] Fine-tune Accessories slots
 - [ ] Replace Skyroot Sticks with normal stick
-- [ ] Change RU Overgrown Bone Block model to be compatible with JNE
 - [ ] Integrate SG2 molds and TiCon casts

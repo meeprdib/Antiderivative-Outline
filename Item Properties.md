@@ -9,3 +9,4 @@
 - Gravitite - Manipulates gravity, used for gravity-altering mechanics
 - Copshowium - Manipulates (space)time
 - Tin - Deflects projectiles and item transportation; hoppers, minecarts, and pipes
+- Ruby - High energy / lasers
