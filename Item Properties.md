@@ -5,8 +5,6 @@
 - Copper - Decent at conducting heat/electricity as well as storage
 - Lead - 
 - Billon - 
-- Cobalt - Stores energy, used for batteries
-- Gravitite - Manipulates gravity, used for gravity-altering mechanics
 - Copshowium - Manipulates (space)time
 - Tin - Deflects projectiles and item transportation; hoppers, minecarts, and pipes
 - Ruby - High energy / lasers

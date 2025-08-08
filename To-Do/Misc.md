@@ -15,11 +15,11 @@
 	- [ ] Change texture to reflect that
 	- [ ] Change recipes from "just ores" -> "all things stone/clay related"
 - [ ] Mob spawning
-	- [ ] Disable hostile mob spawns above y63
-	- [ ] Disable apotheosis bosses and boss dungeons
-	- [ ] Disable Scorched Guns mobs from spawning naturally
-	- [ ] Disable Necromancer from spawning naturally
-- [ ] Nuke bat spawning
+	- [x] Disable hostile mob spawns in between y50 -> y192
+	- [x] Disable apotheosis bosses and boss dungeons
+	- [x] Disable Scorched Guns mobs from spawning naturally
+	- [x] Disable Necromancer from spawning naturally
+	- [x] Nuke bat spawning
 - [ ] Recolor TiCon tools to have accurate color schemes to the ingots
 - [ ] Fine-tune Accessories slots
 - [ ] Replace Skyroot Sticks with normal stick

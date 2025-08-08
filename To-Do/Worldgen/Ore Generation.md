@@ -1,0 +1,15 @@
+
+- [ ] Iron
+- [x] Tin
+- [ ] Copper
+- [ ] Silver
+- [ ] Gold
+- [ ] Lead
+- [ ] Quartz
+- [ ] Redstone
+- [ ] Diamond
+- [ ] Ruby
+- [ ] Sulfur
+- [ ] Ambrosium
+- [ ] Gravitite
+- [ ] Vehement Coal
